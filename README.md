@@ -1,6 +1,6 @@
 # Project Documentation/Report Outline
 
-   - ### Title: Persistence Solution for User View History
+   - ### Title: Persistence Solution for User View Activity
    - ### Author(s): Collin Edwards
    - ### Date: July-Aug 2023
 
